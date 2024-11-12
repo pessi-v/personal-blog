@@ -5,3 +5,5 @@
 	</p>
 	<a href="/blog/july_1_24">FIRST</a>
 </section>
+
+<style src="../app.scss"></style>
