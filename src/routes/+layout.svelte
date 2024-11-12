@@ -1,7 +1,7 @@
 <script>
-	import '../app.scss';
-	import '../skeleton.scss';
-	import '../normalize.scss';
+	import '../app.css';
+	import '../skeleton.css';
+	import '../normalize.css';
 </script>
 
 <slot />
