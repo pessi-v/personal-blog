@@ -45,8 +45,10 @@
 	Through this project, I've been exploring different hosting services, learning more about DNS and
 	learning about the AP protocol. Currently there is some basic AP functionality: you can discover
 	an instance on some platforms implementing AP, such as Mastodon. Why my instance is not showing up
-	on every instance is still a mystery to me though. You can try finding my instance called at
-	@editor@newfutu.re .
+	on every instance is still a mystery to me though. You can try finding my instance called <a
+		rel="external"
+		href="https://newfutu.re">New Future</a
+	> at @editor@newfutu.re .
 </p>
 
 <style src="../../../app.css"></style>
