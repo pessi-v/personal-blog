@@ -21,3 +21,5 @@
 		</ul>
 	</ol>
 </nav>
+
+<style src="../app.css"></style>

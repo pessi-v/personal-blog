@@ -1,1 +1,10 @@
-	
+:global footer {
+	position: absolute !important;
+	bottom: 5px;
+	left: 5px;
+
+	:global a {
+		font-size: 0.7rem !important;
+		opacity: 0.3;
+	}
+}
