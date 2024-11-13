@@ -87,3 +87,5 @@
 <pre><code class="language-bash">dokku run rails db:setup</code></pre>
 
 <p>That is all! Hope it worked!</p>
+
+<style src="../../../app.css"></style>

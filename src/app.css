@@ -1,7 +1,11 @@
+:global .container {
+	position: relative;
+	min-height: 100vh;
+}
+
 :global footer {
-	position: absolute !important;
+	position: absolute;
 	bottom: 5px;
-	left: 5px;
 
 	:global a {
 		font-size: 0.7rem !important;

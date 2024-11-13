@@ -53,3 +53,5 @@
 	In my experience however, the parsing doesn’t always manage to identify the previous sections from
 	the content.
 </p>
+
+<style src="../../../app.css"></style>

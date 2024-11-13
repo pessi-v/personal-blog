@@ -3,6 +3,7 @@
 	<p>written by <a href="https://github.com/pessi-v">Pessi V.</a></p>
 </div>
 <nav class="toc" role="navigation">
+	<h2>Posts</h2>
 	<ol>
 		<ul style="display: list-item; list-style-type: 'November 13, 2024';">
 			<a href="/blog/nov_13_24">Metazine: a newspaper-like RSS aggregator</a>

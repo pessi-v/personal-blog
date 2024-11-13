@@ -126,3 +126,5 @@
 	I’m very impressed with Yunohost so far. I had tried a couple of alternatives already, including
 	CapRover, but the experience with Yunohost was extremely smooth up to this point!
 </p>
+
+<style src="../../../app.css"></style>

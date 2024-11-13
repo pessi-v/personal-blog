@@ -73,3 +73,5 @@
 <pre><code class="language-ruby">readability_output = runner.parse response.body</code></pre>
 
 <p>And that’s it!</p>
+
+<style src="../../../app.css"></style>
