@@ -7,6 +7,9 @@
 		<ul style="display: list-item; list-style-type: 'November 13, 2024';">
 			<a href="/blog/nov_13_24">Metazine: a newspaper-like RSS aggregator</a>
 		</ul>
+		<ul style="display: list-item; list-style-type: 'September 30, 2024';">
+			<a href="/blog/sept_30_24">Install Dokku and deploy your Rails project with git</a>
+		</ul>
 		<ul style="display: list-item; list-style-type: 'August 8, 2024';">
 			<a href="/blog/august_8_24">Digital Ocean + Yunohost + Rocket.chat simple setup</a>
 		</ul>

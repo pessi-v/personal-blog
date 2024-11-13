@@ -25,7 +25,7 @@
 
 <pre><code class="language-html">bundle add faraday</code></pre>
 
-<h2>Using ‘ruby-readability’</h2>
+<h3>Using ‘ruby-readability’</h3>
 
 <p>Get the web page with Faraday</p>
 
