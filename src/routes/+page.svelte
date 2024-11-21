@@ -6,7 +6,8 @@
 	<h2>Posts</h2>
 	<ol>
 		<ul style="display: list-item; list-style-type: 'November 20, 2024';">
-			<a href="/blog/nov_20_24">Deploying Streamlit on EC2, with nginx for port 80 access</a>
+			<a href="/blog/nov_20_24">Deploying Streamlit on EC2, with nginx for external HTTP requests</a
+			>
 		</ul>
 		<ul style="display: list-item; list-style-type: 'November 13, 2024';">
 			<a href="/blog/nov_13_24">Metazine: a newspaper-like RSS aggregator</a>
