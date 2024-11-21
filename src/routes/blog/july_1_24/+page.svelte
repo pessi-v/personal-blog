@@ -24,8 +24,8 @@
 
 <h4>Readability.js and building a DOM document object</h4>
 <p>
-	Readability.js wants to consume a DOM document object. To create one, we’ll be using the jsdom
-	node package.
+	<a rel="external" href="https://github.com/mozilla/readability">Readability.js</a> wants to consume
+	a DOM document object. To create one, we’ll be using the jsdom node package.
 </p>
 
 <h3>Required packages</h3>

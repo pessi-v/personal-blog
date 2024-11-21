@@ -6,13 +6,20 @@
 	article, using the mozilla/readability.js node package on Rails backend.
 </p>
 
-<p>This time I’ll introduce the ‘readability’ gem to do the same task – in a more Ruby way.</p>
+<p>
+	This time I’ll introduce the <a rel="external" href="https://github.com/cantino/ruby-readability"
+		>‘readability’ gem</a
+	> to do the same task – in a more Ruby way.
+</p>
 
 <p>
-	I didn’t manage to get the gem to parse many websites, and I ended up going with the solution
-	presented in the previous post. If you figure out how to get the gem nicely parse content from
-	pages reliably, let us know in the comments. Install the gem
+	<strong>
+		I didn’t manage to get the gem to parse many websites, and I ended up going with the solution
+		presented in the <a href="./july_1_24">previous post</a>.
+	</strong>
 </p>
+
+<h3>Install the gem</h3>
 
 <p>Run the following in you Rails project folder:</p>
 

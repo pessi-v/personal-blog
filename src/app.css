@@ -1,11 +1,13 @@
-:global .container {
-	position: relative;
+:global .outer-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 	min-height: 100vh;
 }
 
 :global footer {
-	position: absolute;
-	bottom: 5px;
+	display: flex;
+	justify-content: space-between;
 
 	:global a {
 		font-size: 0.7rem !important;
