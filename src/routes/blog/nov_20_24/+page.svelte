@@ -9,7 +9,8 @@
 	</p>
 
 	<p>
-		This is in preparation to setting up a subdomain for my app, on which I'll do a writeup soon.
+		This is in preparation to setting up a subdomain for my app, something I won't be covering in
+		this post however.
 	</p>
 
 	<h3>Amazon AWS EC2 instance</h3>
