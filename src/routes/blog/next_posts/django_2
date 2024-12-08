@@ -1,0 +1,23 @@
+
+
+	<p>
+		A couple of things to note here: Firstly, sorting in descending order is used by adding a dash
+		'-' in front of the attribute we're sorting by. Secondly, we'll pass the request to the render()
+		function, for several reasons:
+			- for the current user object request.user
+			- User authentication status
+			- Session data
+			- Cookies
+			- GET/POST parameters
+			- CSRF token for forms
+			- Debug information (when DEBUG=True)
+			- Add security headers
+Process sessions
+Handle user authentication
+Manage language preferences
+	</p>
+
+	configure view, explain that it's kind of like the controller create templates folder and
+	home.html configure route setup a static folder create a css create a model create a migration
+	admin add a task makefile requirements.txt django-extensions -> shell_plus import task to
+	shell_plus through settings.py django -> wsgi.py -> gunicorn -> nginx -> systemd

@@ -5,6 +5,9 @@
 <nav class="toc" role="navigation">
 	<h2>Posts</h2>
 	<ol>
+		<ul style="display: list-item; list-style-type: 'December 7, 2024';">
+			<a href="/blog/december_7_24">Notes on Django from a Rubyist</a>
+		</ul>
 		<ul style="display: list-item; list-style-type: 'November 20, 2024';">
 			<a href="/blog/nov_20_24">Deploying Streamlit on EC2, with nginx for external HTTP requests</a
 			>

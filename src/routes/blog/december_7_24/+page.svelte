@@ -1,15 +1,18 @@
 <div class="post">
-	<h2>Django basics for Ruby on Rails developers</h2>
+	<h2>Notes on Django from a Rubyist</h2>
 	<h4>December 7, 2024</h4>
 
-	<h3>From Rails to Django: A Guide for Ruby Developers</h3>
+	<p>
+		In this post I've gathered some notes on setting up a Django project, comparing some of the
+		aspects to Ruby on Rails projects.
+	</p>
+
+	<h3>Virtual Environments vs Gemfile</h3>
 
 	<p>
-		As a Rails developer venturing into Django territory, you'll find many familiar concepts but
-		with different implementations. This guide will walk you through creating your first Django
-		project, highlighting the key differences from Rails along the way. Virtual Environments vs
-		Gemfile While Rails uses Gemfile and Bundler to manage dependencies, Django projects typically
-		use Python virtual environments. Here's how to set one up:
+		While Rails uses Bundler and a Gemfile to manage dependencies, Django projects instead use
+		Python virtual environments and a requirements.txt file. Here's how to set up a virtual
+		environment and generate a requirements.txt:
 	</p>
 
 	<pre>
@@ -24,13 +27,7 @@
 
 			# Install Django
 			pip3 install django
-		</code>
-	</pre>
 
-	<p>Instead of a Gemfile, you'll have a requirements.txt:</p>
-
-	<pre>
-		<code class="language-bash">
 			# generate a requirements.txt from the current state of the project
 			pip3 freeze > requirements.txt
 

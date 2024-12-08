@@ -7,6 +7,10 @@
 	flex-direction: column;
 	justify-content: space-between;
 	min-height: 100vh;
+
+	@media (max-width: 768px) {
+		padding: 10px;
+	}
 }
 
 :global .post {
@@ -21,5 +25,14 @@
 	:global a {
 		font-size: 0.7rem !important;
 		opacity: 0.5;
+	}
+}
+
+:global ol,
+ul {
+	@media (max-width: 768px) {
+		list-style: circle inside !important;
+		padding-left: 0 !important;
+		line-height: 2.2 !important;
 	}
 }
