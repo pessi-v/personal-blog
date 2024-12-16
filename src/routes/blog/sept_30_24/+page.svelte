@@ -87,6 +87,30 @@
 
 	<pre><code class="language-bash">dokku run rails db:setup</code></pre>
 
+	<h3>Maintaining your Dokku app</h3>
+
+	<p>
+		With this setup, you'll have to remember to push your code updates to Dokku, when you want to
+		update your running app.
+	</p>
+
+	<pre>
+		<code class="language-bash">
+			git push dokku
+		</code>
+	</pre>
+
+	<p>
+		Should you need to debug your application, you can read the logs by logging in to your server
+		and running the following:
+	</p>
+
+	<pre>
+		<code class="language-bash">
+			dokku run YOUR-PROJECT-NAME logs -t
+		</code>
+	</pre>
+
 	<p>That is all! Hope it worked!</p>
 </div>
 
