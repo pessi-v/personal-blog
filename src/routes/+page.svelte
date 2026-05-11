@@ -5,6 +5,9 @@
 <nav class="toc" role="navigation">
 	<h2>Posts</h2>
 	<ol>
+		<ul style="display: list-item; list-style-type: 'May 11, 2026';">
+			<a href="/blog/may_11_26">An update on what I've been doing!</a>
+		</ul>
 		<ul style="display: list-item; list-style-type: 'December 7, 2024';">
 			<a href="/blog/december_7_24">Notes on Django from a Rubyist</a>
 		</ul>
